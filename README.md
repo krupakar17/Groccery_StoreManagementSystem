@@ -1,1 +1,1 @@
-# Groccery_StoreManagementSystem
+# Groccery Billing and stock management system
